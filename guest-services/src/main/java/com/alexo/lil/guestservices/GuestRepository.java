@@ -1,4 +1,4 @@
-package com.alexo.lil.guesetservices;
+package com.alexo.lil.guestservices;
 
 import org.springframework.data.repository.CrudRepository;
 

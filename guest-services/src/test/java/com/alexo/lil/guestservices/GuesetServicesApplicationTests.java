@@ -1,4 +1,4 @@
-package com.alexo.lil.guesetservices;
+package com.alexo.lil.guestservices;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.alexo.lil</groupId>
-    <artifactId>guest-services</artifactId>
+    <artifactId>reservation-services</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>guest-services</name>
-    <description>guest-services</description>
+    <name>reservation-services</name>
+    <description>reservation-services</description>
     <properties>
         <java.version>11</java.version>
     </properties>
